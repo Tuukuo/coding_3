@@ -1,0 +1,25 @@
+.page{
+  text-align: center; 
+  
+}
+.container{
+    color: blueviolet;
+    text-align: center;
+    
+}
+  .h3{
+text-align: center;
+word-spacing: 20px;
+}
+#heading{
+  text-align: center;
+  word-spacing: 5px;
+}
+.contact{
+  background-color: blueviolet;
+  font-size: x-large;
+}
+.variety{
+  background-color: cyan;
+  font-size: larger;
+}
